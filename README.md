@@ -29,12 +29,21 @@
 </p>
 
 **Visualisation**
-
-📊 Power BI &nbsp;|&nbsp; 📐 DAX &nbsp;|&nbsp; 🛠️ Power Query &nbsp;|&nbsp; 📗 MS Excel &nbsp;|&nbsp; 🎨 Dashboard Design
+<p>
+  📊 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  📐 <img src="https://img.shields.io/badge/DAX-FF6F00?style=flat-square&logoColor=white"/>
+  🛠️ <img src="https://img.shields.io/badge/Power%20Query-1A73E8?style=flat-square&logoColor=white"/>
+  📗 <img src="https://img.shields.io/badge/MS%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+  🎨 <img src="https://img.shields.io/badge/Dashboard%20Design-8E44AD?style=flat-square&logoColor=white"/>
+</p>
 
 **Analytics**
-
-🔍 EDA &nbsp;|&nbsp; 🧹 Data Preprocessing &nbsp;|&nbsp; 📋 KPI Reporting &nbsp;|&nbsp; 🧱 Databricks
+<p>
+  🔍 <img src="https://img.shields.io/badge/EDA-2980B9?style=flat-square&logoColor=white"/>
+  🧹 <img src="https://img.shields.io/badge/Data%20Preprocessing-16A085?style=flat-square&logoColor=white"/>
+  📋 <img src="https://img.shields.io/badge/KPI%20Reporting-E67E22?style=flat-square&logoColor=white"/>
+  🧱 <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+</p>
 
 **AI & ML**
 <p>
