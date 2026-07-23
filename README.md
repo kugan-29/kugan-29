@@ -28,22 +28,21 @@
   <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-**Data Analytics & Visualization**
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DAX-FF6F00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Power%20Query-1A73E8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-</p>
+**Visualisation**
+
+📊 Power BI &nbsp;|&nbsp; 📐 DAX &nbsp;|&nbsp; 🛠️ Power Query &nbsp;|&nbsp; 📗 MS Excel &nbsp;|&nbsp; 🎨 Dashboard Design
+
+**Analytics**
+
+🔍 EDA &nbsp;|&nbsp; 🧹 Data Preprocessing &nbsp;|&nbsp; 📋 KPI Reporting &nbsp;|&nbsp; 🧱 Databricks
 
 **AI & ML**
 <p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-4B8BBE?style=flat-square"/>
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
 </p>
 
 ---
@@ -64,8 +63,8 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| 🛍️ [Retail Store Performance Dashboard](https://github.com/kugan-29/retail-store-performance-dashboard) | Interactive Power BI dashboard analyzing 20+ store metrics; surfaced insights that improved revenue by 15% | Power BI, SQL, DAX |
-| 🎬 [Netflix Content Trend Analysis](https://github.com/kugan-29/netflix-content-trend-analysis) | EDA on 8,000+ Netflix titles to uncover genre and release trends across countries | Python, Pandas, Excel |
+| 🛍️ [Retail Store Performance Dashboard](https://kugan-29.github.io/Retail-store-performance/) | Interactive Power BI dashboard analyzing 20+ store metrics; surfaced insights that improved revenue by 15% | Power BI, SQL, DAX |
+| 🎬 [Netflix Content Trend Analysis](https://kugan-29.github.io/Netflix-trend-analysis-dashboard/) | EDA on 8,000+ Netflix titles to uncover genre and release trends across countries | Python, Pandas, Excel |
 | 🤖 [LLM-Powered File Management System](https://github.com/kugan-29/llm-file-management-system) | Semantic file search & auto-categorization using OpenAI & Hugging Face APIs | Python, OpenAI API, Hugging Face |
 
 ---
