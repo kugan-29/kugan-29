@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Kugan J</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Raw Data into Business Decisions</h3>
+<h3 align="center">Aspiring Analyst | Turning Raw Data into Business Decisions</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
