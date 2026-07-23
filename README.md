@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile.png" width="150" height="150" style="border-radius:50%; object-fit:cover;"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Kugan J</h1>
 <h3 align="center">Aspiring Data Analyst | Turning Raw Data into Business Decisions</h3>
 
