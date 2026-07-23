@@ -48,6 +48,18 @@
 
 ---
 
+### 💼 Internship Experience
+
+**Data Analytics Intern** | Pratinik Infotech — *Feb 2026 – Apr 2026*
+- Analyzed customer and sales datasets across 3 regions using SQL, surfacing trends that shaped weekly review discussions
+- Built KPI dashboards in Power BI using DAX and Power Query, consolidating multiple sources into a single view with 100% data accuracy
+
+**Machine Learning Intern** | Pan Tech E Learning — *Aug 2024 – Sep 2024*
+- Applied core ML concepts (data preprocessing, model building) using Python
+- Built and evaluated 2+ ML models (classification/regression) as part of hands-on training
+
+---
+
 ### 📌 Featured Projects
 
 | Project | Description | Tools |
