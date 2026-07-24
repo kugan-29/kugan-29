@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" width="150" height="150" style="border-radius:50%; object-fit:cover;"/>
+  <img src="download(4).png" width="150" height="150" style="border-radius:50%; object-fit:cover;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kugan J</h1>
