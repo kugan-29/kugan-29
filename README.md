@@ -44,9 +44,9 @@
 **Analytics**
 <p>
   🔍 <img src="https://img.shields.io/badge/EDA-2980B9?style=flat-square&logoColor=white"/>
-  🧹 <img src="https://img.shields.io/badge/Data%20Preprocessing-16A085?style=flat-square&logoColor=white"/>
-  📋 <img src="https://img.shields.io/badge/KPI%20Reporting-E67E22?style=flat-square&logoColor=white"/>
-  🧱 <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Data%20Preprocessing-16A085?style=flat-square&logoColor=white"/>
+   <img src="https://img.shields.io/badge/KPI%20Reporting-E67E22?style=flat-square&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
 </p>
 
 **AI & ML**
