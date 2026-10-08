@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="kugan_pic.png" width="150" height="150" style="border-radius:50%; object-fit:cover;"/>
+  <img src="kugan_pic.png" width="200" height="200" style="border-radius:50%; object-fit:cover;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kugan J</h1>
-<h3 align="center">Data Analyst | Turning Raw Data into Business Decisions</h3>
+<h3 align="center"> Entry-Level Data Analyst | Turning Raw Data into Business Decisions</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://www.linkedin.com/in/kugan-j/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kugankarthik67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="[https://kugan-29.github.io/portfolio/]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
