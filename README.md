@@ -29,7 +29,7 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MY%20SQL%20(Joins, Subqueries, Aggregation)-CC2927?style=flat-square&logo=MYSQL(Joins, Subqueries, Aggregation)&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MY%20SQL%20(Joins, Subqueries, Aggregation)%20-CC2927?style=flat-square&logo=MYSQL(Joins, Subqueries, Aggregation)&logoColor=white"/>
 </p>
 
 **Visualisation**
