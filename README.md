@@ -6,9 +6,9 @@
 <h3 align="center"> Entry-Level Data Analyst | Turning Raw Data into Business Decisions</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/kugan-j/]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="(https://www.linkedin.com/in/kugan-j/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kugankarthik67@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="[https://kugan-29.github.io/portfolio/]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="(https://kugan-29.github.io/portfolio/)"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -82,11 +82,11 @@
 • Built an interactive Power BI dashboard on a MySQL database with 7 DAX measures and 5 KPI cards, tracking 84.8M in sales and 833K footfall across 4 stores   and 3 categories. 
 • Analyzed 1,650 records using SQL, finding that 74% (1,221) were below average sales, footfall had almost no relationship with sales, and Electronics drove   about 84.5% of total sales.  | Power BI, SQL, DAX |
 | 🎬 [Netflix Content Trend Analysis](https://kugan-29.github.io/Netflix-trend-analysis-dashboard/) |
-• Cleaned and analyzed 8,807 Netflix titles across 122 countries using Python (Pandas, Matplotlib), filling missing values in 4 columns and correcting 3  m
+• Cleaned and analyzed 8,807 Netflix titles across 122 countries using Python (Pandas, Matplotlib), filling missing values in 4 columns and correcting 3  
   misplaced duration values, and built an Excel dashboard with KPI cards and charts. 
 • Found that additions peaked at 2,016 titles in 2019, Movies made up 69.6% of the catalog, and the US led all countries.  | Python, Pandas, Excel |
 | 🤖 [AI-Powered File Management System](https://github.com/kugan-29/llm-file-management-system) | 
-• Developed an AI-powered file management system in Python that replaces keyword search with natural language queries, using the OpenAI API for query   
+• Developed an AI-powered file management system in Python that replaces keyword search with natural language queries, using the OpenAI API for query
   understanding. 
 • Implemented semantic search with Hugging Face embeddings and automatic file categorization using NLP.  | Python, OpenAI API, Hugging Face |
 
