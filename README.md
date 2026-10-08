@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="download (4).png" width="150" height="150" style="border-radius:50%; object-fit:cover;"/>
+  <img src="kugan_pic.png" width="150" height="150" style="border-radius:50%; object-fit:cover;"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kugan J</h1>
@@ -16,9 +16,9 @@
 ### 🧠 About Me
 
 - 🎓 B.Tech in **Artificial Intelligence and Data Science**, Sree Sastha Institute of Engineering and Technology (2022–2026)
-- 📊 Practical experience in **SQL, Python, Power BI, and DAX** through internships and academic projects
-- 💼 Currently seeking **entry-level Data Analyst / Business Analyst** roles
-- 🌱 Actively building expertise in **KPI Dashboarding, EDA, and Data Storytelling**
+- 📊 Practical experience in **SQL, Python, Power BI, MS Excel and DAX** through internships and academic projects
+- 💼 Currently seeking **Entry-level Data Analyst / Business Analyst** roles
+- 🌱 Actively building expertise in **KPI Dashboarding, EDA, Data Visualization and Data Storytelling**
 - ⚡ Fun fact: I enjoy turning messy spreadsheets into dashboards that actually make sense
 
 ---
@@ -63,12 +63,14 @@
 ### 💼 Internship Experience
 
 **Data Analytics Intern** | Pratinik Infotech — *Feb 2026 – Apr 2026*
-- Analyzed customer and sales datasets across 3 regions using SQL, surfacing trends that shaped weekly review discussions
-- Built KPI dashboards in Power BI using DAX and Power Query, consolidating multiple sources into a single view with 100% data accuracy
+• Analyzed sales and customer data across 3 regions using SQL, identified a decline in repeat purchases in one region, and submitted the analysis to the  t
+  team. 
+• Developed an interactive Power BI dashboard using DAX and Power Query, consolidating data from 4 sources for KPI reporting. 
 
 **Machine Learning Intern** | Pan Tech E Learning — *Aug 2024 – Sep 2024*
-- Applied core ML concepts (data preprocessing, model building) using Python
-- Built and evaluated 2+ ML models (classification/regression) as part of hands-on training
+• Built and evaluated 2 machine learning models (classification and regression) in Python using Pandas and Scikit-Learn, with preprocessing that included   
+  missing-value handling. 
+• Compared algorithms using accuracy, precision, and recall to select the best-performing classification model.
 
 ---
 
@@ -76,16 +78,24 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| 🛍️ [Retail Store Performance Dashboard](https://kugan-29.github.io/Retail-store-performance/) | Interactive Power BI dashboard analyzing 20+ store metrics; surfaced insights that improved revenue by 15% | Power BI, SQL, DAX |
-| 🎬 [Netflix Content Trend Analysis](https://kugan-29.github.io/Netflix-trend-analysis-dashboard/) | EDA on 8,000+ Netflix titles to uncover genre and release trends across countries | Python, Pandas, Excel |
-| 🤖 [LLM-Powered File Management System](https://github.com/kugan-29/llm-file-management-system) | Semantic file search & auto-categorization using OpenAI & Hugging Face APIs | Python, OpenAI API, Hugging Face |
+| 🛍️ [Retail Store Performance Dashboard](https://kugan-29.github.io/Retail-store-performance/) | 
+• Built an interactive Power BI dashboard on a MySQL database with 7 DAX measures and 5 KPI cards, tracking 84.8M in sales and 833K footfall across 4 stores   and 3 categories. 
+• Analyzed 1,650 records using SQL, finding that 74% (1,221) were below average sales, footfall had almost no relationship with sales, and Electronics drove   about 84.5% of total sales.  | Power BI, SQL, DAX |
+| 🎬 [Netflix Content Trend Analysis](https://kugan-29.github.io/Netflix-trend-analysis-dashboard/) |
+• Cleaned and analyzed 8,807 Netflix titles across 122 countries using Python (Pandas, Matplotlib), filling missing values in 4 columns and correcting 3  m
+  misplaced duration values, and built an Excel dashboard with KPI cards and charts. 
+• Found that additions peaked at 2,016 titles in 2019, Movies made up 69.6% of the catalog, and the US led all countries.  | Python, Pandas, Excel |
+| 🤖 [AI-Powered File Management System](https://github.com/kugan-29/llm-file-management-system) | 
+• Developed an AI-powered file management system in Python that replaces keyword search with natural language queries, using the OpenAI API for query   
+  understanding. 
+• Implemented semantic search with Hugging Face embeddings and automatic file categorization using NLP.  | Python, OpenAI API, Hugging Face |
 
 ---
 
 ### 📜 Certifications
 
 - Google Cloud Data Analytics Certification — Google Cloud
-- Google Analytics Certification — Google
+- Google Analytics Certification — Google Skills Build
 - Career Essentials in Data Analysis — Microsoft & LinkedIn Learning
 - SQL and Relational Databases 101 — IBM SkillsBuild
 
@@ -106,4 +116,7 @@
 
 ### 📫 Reach Me
 
+**Kugan J**
+Data Analyst | SQL · Power BI · Excel · Python
+[LinkedIn](https://linkedin.com/in/kugan-j) · [Portfolio](https://kugan-29.github.io/portfolio)
 📍 Chennai, India &nbsp;|&nbsp; 📧 kugankarthik67@gmail.com &nbsp;|&nbsp; 📱 +91-9360170025
