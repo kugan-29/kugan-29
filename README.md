@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=KUGAN%20J&fontSize=80&fontColor=F2C811&animation=twinkling&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20Power%20BI%20%E2%80%A2%20SQL%20%E2%80%A2%20Python&descSize=22&descColor=00F5D4&descAlignY=60" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%91%8B+Hi%2C+I'm+Kugan+from+Chennai;%F0%9F%93%8A+I+turn+raw+data+into+dashboards;%F0%9F%97%84%EF%B8%8F+SQL+%E2%9E%9C+Power+BI+%E2%9E%9C+Insights;%F0%9F%90%8D+Python+%7C+EDA+%7C+Machine+Learning;%F0%9F%9A%80+Open+to+Data+Analyst+roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%91%8B+Hi+Folks%2C+I'm+Kugan;%F0%9F%93%8A+I+look+beyond+the+numbers+to+find+what+matters;%F0%9F%97%84%EF%B8%8F+SQL+%E2%9E%9C+Power+BI+%E2%9E%9C+Excel+%E2%9E%9C+Insights;%F0%9F%90%8D+Python+%7C+EDA+%7C+Machine+Learning;%F0%9F%9A%80+Open+to+Data+Analyst/+Business+analyst+roles" alt="Typing SVG" />
 </a>
 
 <br/>
