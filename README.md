@@ -13,7 +13,9 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-9b5de5?style=for-the-badge&labelColor=1a1a2e)](https://kugan-29.github.io/portfolio)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kugan-j)
+
 [![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kugankarthik67@gmail.com)
 
 ![Open](https://img.shields.io/badge/🟢_OPEN_TO_WORK-Data_Analyst-00F5D4?style=flat-square&labelColor=1a1a2e)
@@ -159,10 +161,12 @@ I have done **2 internships** (Data Analytics and Machine Learning) and built da
 
 ## 🏆 Certifications
 
-<div align="center">
+<div align="Left">
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-Data_Analytics-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 ![Google Analytics](https://img.shields.io/badge/Google-Analytics_Certified-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
 ![Microsoft](https://img.shields.io/badge/Microsoft_%26_LinkedIn-Data_Analysis-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 </div>
@@ -193,10 +197,12 @@ I have done **2 internships** (Data Analytics and Machine Learning) and built da
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kugan--j-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kugan-j)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-kugan--29.github.io-9b5de5?style=for-the-badge&logo=githubpages&logoColor=white)](https://kugan-29.github.io/portfolio)
+
 [![Gmail](https://img.shields.io/badge/Gmail-kugankarthik67@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kugankarthik67@gmail.com)
 
 <i>⭐ If you like my work, drop a star on this repo!</i>
