@@ -163,11 +163,11 @@ I have done **2 internships** (Data Analytics and Machine Learning) and built da
 
 <div align="Left">
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Data_Analytics-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-Data_Analytics-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.skills.google/public_profiles/15061852-5019-4c43-89b3-5c34dee1a35a/badges/17256333)
 
-![Google Analytics](https://img.shields.io/badge/Google-Analytics_Certified-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+[![Google Analytics](https://img.shields.io/badge/Google-Analytics_Certified-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://skillshop.credential.net/c7d3b8b8-ad7a-46ea-8052-68f5344aa6c4#acc.XL60JGKj)
 
-![Microsoft](https://img.shields.io/badge/Microsoft_%26_LinkedIn-Data_Analysis-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+[![Microsoft](https://img.shields.io/badge/Microsoft_%26_LinkedIn-Data_Analysis-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://www.linkedin.com/learning/certificates/f0a1dea61cf0b530ed0695c7a91948858e010b3ea6df5c5fd7c5624aa2d98cc9)
 
 </div>
 
